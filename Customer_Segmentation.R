@@ -1,3 +1,4 @@
+# tkr this path name
 customer_data=read.csv("C:/Users/sauranh sangle/Desktop/New folder/Mall_Customers.csv")
 str(customer_data)
 
