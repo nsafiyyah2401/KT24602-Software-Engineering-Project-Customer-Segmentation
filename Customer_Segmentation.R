@@ -1,4 +1,4 @@
-customer_data=read.csv("C:/Users/sauranh sangle/Desktop/New folder/Mall_Customers.csv")
+customer_data <- read.csv("~/GitHub/KT24602-Software-Engineering-Project-Customer-Segmentation/Mall_Customers (1).csv")
 str(customer_data)
 
 names(customer_data)
