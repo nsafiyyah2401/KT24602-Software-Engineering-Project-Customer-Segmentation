@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 customer_data <- read.csv("~/GitHub/KT24602-Software-Engineering-Project-Customer-Segmentation/Mall_Customers (1).csv")
-=======
-# tkr this path name
-customer_data=read.csv("C:/Users/sauranh sangle/Desktop/New folder/Mall_Customers.csv")
->>>>>>> 8fb38cb3dc0b68a14898dacfc445d7b542828128
+
 str(customer_data)
 
 names(customer_data)
