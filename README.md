@@ -46,8 +46,7 @@ Ensure you have the following software installed on your system:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation
-    cd KT24602-Software-Engineering-Project-Customer-Segmentation
+    git clone https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation.git
     ```
 
 2. **Install the required R packages:**
@@ -82,7 +81,7 @@ Guidelines for contributing to the project:
 1. **Fork the Repository:**
     Click the "Fork" button on the top right of the repository page to create a copy of the repository under your own GitHub account.
 
-2. **Clone Your Fork:**
+2. **Clone Fork:**
     ```bash
     git clone https://github.com/yourusername/KT24602-Software-Engineering-Project-Customer-Segmentation
     cd KT24602-Software-Engineering-Project-Customer-Segmentation
@@ -94,13 +93,13 @@ Guidelines for contributing to the project:
     ```
 
 4. **Make Your Changes:**
-    Implement your changes and commit them with a meaningful commit message.
+    Implement changes and commit them with a meaningful commit message.
 
     ```bash
     git commit -m "Add feature description"
     ```
 
-5. **Push Your Changes:**
+5. **Push Changes:**
     ```bash
     git push origin feature/YourFeatureName
     ```
