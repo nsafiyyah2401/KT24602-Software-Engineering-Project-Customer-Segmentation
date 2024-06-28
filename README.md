@@ -111,7 +111,7 @@ Guidelines for contributing to the project:
 
 ## Project Link
 
-[https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation](https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation)
+[https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation.git](https://github.com/nsafiyyah2401/KT24602-Software-Engineering-Project-Customer-Segmentation.git)
 
 
 ## Conclusion
